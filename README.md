@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlejoBuilesG
+- 👀 I’m interested in learn about Python & JavaScript
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on simple codes 
+- 📫 How to reach me alejobuilesgonzalez@gmail.com
